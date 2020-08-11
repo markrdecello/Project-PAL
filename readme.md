@@ -470,25 +470,13 @@ return {
 
 
 
+## Running Locally
 
-
-### Database Diagram Simplification
-
-------
-
-##### This Diagram will help clarify the order in which Forms, Questions and Answers will need to be registered and submitted.
-
-![Alt](https://i.imgur.com/XQooT4X.png)
-
-
-
-### Chat Diagram Simplification
-
-------
-
-##### This Diagram will help clarify the order in which a chat will be initiated.
-
-![Alt](https://lh3.googleusercontent.com/-05UrOjESLx--UOR_z13QOsc_8o5CQN3Jbkw1Eb0ZhFos4R6uGm16FFQisligLZYl5ITOzw0ikEYcNbdxvGb=w942-h633)
+This will instruct how to connect to the App's Database.
+...
+1. Open Terminal and enter the pal directory.
+2. Make sure node, laravel, and Redis Installed.
+...
 
 
 
