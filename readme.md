@@ -481,7 +481,10 @@ This will instruct how to connect to the App's Database.
 		-Node/nodejs : https://nodejs.org/en/download/package-manager/
 		-laravel : https://laravel.com/docs/7.x/installation
 		-Redis : https://redis.io/topics/quickstart
-3. Enter Command: php artisan serve. Make sure IP Address matches with yours. If using an emulator, make sure IP Address is 10.0.2.2, else, your IP Address.
+3. Enter Command: php artisan serve. Make sure IP Address matches with yours. 
+   If using an emulator, make sure IP Address is 10.0.2.2, else, your IP Address.
+4. Make sure the baseURL in Android Studio matches the same IP Address when running 
+   'php artisan serve'
 ```
 
 
