@@ -473,10 +473,16 @@ return {
 ## Running Locally
 
 This will instruct how to connect to the App's Database.
-...
+
+```
 1. Open Terminal and enter the pal directory.
 2. Make sure node, laravel, and Redis Installed.
-...
+	-Instructions to install:
+		-Node/nodejs : https://nodejs.org/en/download/package-manager/
+		-laravel : https://laravel.com/docs/7.x/installation
+		-Redis : https://redis.io/topics/quickstart
+3. Enter Command: php laravel serve. Make sure IP Address matches with yours
+```
 
 
 
