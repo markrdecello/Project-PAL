@@ -485,6 +485,7 @@ This will instruct how to connect to the App's Database.
    If using an emulator, make sure IP Address is 10.0.2.2, else, your IP Address.
 4. Make sure the baseURL in Android Studio matches the same IP Address when running 
    'php artisan serve'
+5. Make sure redis, node, and laravel are running in the background via the Terminal.
 ```
 
 
